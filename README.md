@@ -17,10 +17,11 @@ upload it to your templates folder and use it like this:
  </head>
 ```
 
+The class will automatically print the tags 
+
 ## Options and defaults
 
 $page : current PW page
 $pages : PW pages wire object
 $defaultimg : A general image (1200x628px recomended) for pages like a home page where there's no content image
 $hometitle : A generic title if the home element is called something like "home"
-
