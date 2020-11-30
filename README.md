@@ -1,6 +1,6 @@
 # opengraphPW
 
-An Open Graph class for autocreation of meta tags and open graph tags.
+An Open Graph class for autocreation of meta and open graph tags in Processwire.
 
 ## Installation
 
