@@ -2,6 +2,8 @@
 
 An Open Graph class for autocreation of meta and open graph tags in Processwire.
 
+Tested on Processwire 3.0.165
+
 ## Installation
 
 upload it to your templates folder and use it like this:
